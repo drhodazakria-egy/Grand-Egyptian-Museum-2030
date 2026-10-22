@@ -1,0 +1,12 @@
+# Windows temporary & thumbnail files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Office temporary files
+~$*
+
+# macOS files
+.DS_Store
+._*

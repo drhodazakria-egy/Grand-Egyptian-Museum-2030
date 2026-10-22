@@ -1,0 +1,221 @@
+
+الدفتر
+
+```html
+<div class="image-replication-prompt" lang="en">
+
+  <h1>Exact Visual Replication of the Reference Notebook</h1>
+
+  <section id="primary-instruction">
+    <h2>Primary Instruction</h2>
+    Recreate the antique notebook shown in the supplied reference
+    image with the highest possible visual fidelity. Treat the
+    reference image as the absolute source of truth. Preserve the
+    notebook's original silhouette, proportions, construction,
+    orientation, surface details, material appearance, lighting,
+    shadows, camera perspective, and background composition.
+    Do not redesign, modernize, beautify, or reinterpret the object.
+  </section>
+
+  <section id="object-identity">
+    <h2>Object Identity and Overall Shape</h2>
+    A single thick, old, closed rectangular notebook with a heavily
+    worn dark brown leather cover. The notebook has a substantial
+    depth, a rounded and irregular front spine area, thick stacked
+    paper pages, and visibly aged leather edges.
+
+    The notebook lies horizontally on a flat, light-colored surface.
+    It is positioned diagonally across the frame, with its front
+    page block facing the viewer and its rear portion extending
+    toward the upper-right background.
+
+    Maintain the exact general proportions and spatial relationships
+    visible in the reference. The notebook is broad and relatively
+    low in profile, with a thick page block and a bulky leather cover.
+  </section>
+
+  <section id="leather-cover">
+    <h2>Leather Cover: Material, Color, and Wear</h2>
+    The cover is made of old, dark chocolate-brown leather, with
+    subtle variations of walnut brown, dark umber, warm chestnut,
+    and muted reddish-brown undertones.
+
+    The leather surface is matte to softly worn semi-matte, with
+    irregular natural grain, fine scratches, shallow creases,
+    rubbed patches, faded markings, and scattered areas of
+    abrasion.
+
+    The upper cover is visibly distressed and uneven rather than
+    smooth, glossy, polished, or artificially uniform.
+
+    The front and side edges are thick, rounded, battered, and
+    worn. Small cracks, compressed leather folds, softened corners,
+    and lighter brown exposed areas appear along the edges.
+
+    Preserve the asymmetrical, handcrafted appearance of the cover.
+    Do not introduce decorative embossing, printed titles, lettering,
+    logos, metal ornaments, or elaborate patterns.
+  </section>
+
+  <section id="leather-strap">
+    <h2>Leather Strap and Closure</h2>
+    A narrow, dark brown leather strap wraps around the closed
+    notebook and crosses the upper cover diagonally in perspective.
+
+    The strap forms a long curved band running from the upper
+    middle region toward the front-right portion of the notebook,
+    then bends around the thick leather edge.
+
+    A second visible section of the strap follows the notebook's
+    rounded side, creating two closely spaced, dark curved lines
+    across the cover and edge.
+
+    The strap is made of aged, dark, slightly uneven leather.
+    It is snug against the notebook, with realistic contact shadows
+    and subtle highlights.
+
+    Match the visible routing, curvature, thickness, and position
+    of the strap in the reference image. Do not add a metal buckle,
+    buttons, extra straps, or a modern fastening mechanism.
+  </section>
+
+  <section id="page-block">
+    <h2>Visible Pages and Paper Edges</h2>
+    The front-facing page block occupies a prominent area in the
+    lower-left and central foreground.
+
+    It consists of many tightly stacked, thick, aged paper sheets
+    in muted beige, warm ivory, pale ochre, and light tan.
+
+    The exposed page edges display numerous fine, closely spaced,
+    predominantly horizontal lines. The paper is slightly uneven
+    in tone, with subtle darkened grooves and natural aging.
+
+    The page block is rectangular but not perfectly machine-cut.
+    Its lower edges show irregularity, small worn sections,
+    and a few thin, partially torn or protruding paper layers.
+
+    The paper remains closed and compressed. No pages are open,
+    no handwriting is visible, and no illustrations or printed
+    text appear on the exposed edges.
+
+    Preserve the strong visual contrast between the lighter,
+    warm beige pages and the dark brown leather cover.
+  </section>
+
+  <section id="binding-and-spine">
+    <h2>Spine, Binding, and Side Details</h2>
+    The notebook has a thick, rounded leather-covered front edge
+    on the right side of the visible page block.
+
+    Several small horizontal, worn leather ridges and irregular
+    raised details are visible on the front-right leather section.
+    These features appear aged and integrated into the material.
+
+    The bottom cover extends slightly beyond portions of the pages.
+    A few uneven, tan paper fragments are visible underneath the
+    lower-left edge.
+
+    Reproduce the existing irregularities as natural physical
+    details. Do not convert the spine into a modern book spine,
+    add metal rings, create decorative stitching that is not visible,
+    or introduce unsupported structural elements.
+  </section>
+
+  <section id="camera-and-composition">
+    <h2>Camera Angle and Exact Composition</h2>
+    Use a close-up, three-quarter product photograph from a low,
+    slightly elevated viewing angle.
+
+    The camera looks toward the front and right side of the notebook
+    while revealing most of the upper leather cover.
+
+    The notebook extends diagonally from the lower-left foreground
+    toward the upper-right background.
+
+    The exposed page block occupies the lower-left and middle area.
+    The thick rounded leather edge is prominent in the lower-right
+    foreground. The rear cover remains visible behind the front
+    cover, creating a layered, overlapping appearance.
+
+    The notebook fills most of the central image area, with generous
+    light neutral negative space around it.
+
+    Match the original wide landscape framing and object placement.
+    Avoid a top-down view, a straight-on side view, a perfectly
+    centered symmetrical composition, or an excessively wide shot.
+  </section>
+
+  <section id="background-and-lighting">
+    <h2>Background, Surface, and Lighting</h2>
+    The background is a seamless, off-white to very light warm gray
+    studio environment. The notebook rests on a similarly pale,
+    matte surface that blends naturally into the background.
+
+    Soft, diffused studio light illuminates the object from above
+    and slightly from the left, revealing the leather grain and
+    individual paper edges without harsh reflections.
+
+    Gentle natural contact shadows extend beneath the notebook,
+    especially toward the lower-right side. The shadows are soft,
+    diffuse, and consistent with the object's weight and position.
+
+    Preserve the subdued, realistic exposure, neutral background,
+    warm brown leather, and beige paper tones.
+
+    Do not introduce dramatic cinematic lighting, colored spotlights,
+    a black background, a wooden table, environmental scenery,
+    floating particles, fog, or decorative props.
+  </section>
+
+  <section id="photographic-style">
+    <h2>Photographic Rendering</h2>
+    Photorealistic studio product photography, highly detailed
+    natural leather texture, realistic aged paper fibers, accurate
+    material response, physically plausible shadows, subtle
+    surface imperfections, natural perspective, and restrained
+    color grading.
+
+    Use a realistic photographic depth of field: the notebook's
+    front page edges and leather details remain clearly legible,
+    while the rear portion appears only slightly softer.
+
+    The final image must resemble a photograph of the same physical
+    notebook, not a digital illustration, painting, cartoon,
+    CGI fantasy prop, or newly designed antique book.
+  </section>
+
+  <section id="negative-constraints">
+    <h2>Negative Constraints</h2>
+    Do not change the object's identity, overall shape, proportions,
+    diagonal orientation, camera angle, or relative placement.
+
+    Do not open the notebook. Do not add a hand, person, pen,
+    quill, glasses, candle, books, plants, furniture, or other props.
+
+    Do not add text, titles, labels, symbols, logos, gold lettering,
+    metal buckles, decorative corner pieces, or ornamental embossing.
+
+    Avoid clean new leather, glossy plastic, bright orange leather,
+    black pages, white printer paper, perfectly sharp manufactured
+    edges, excessive damage, exaggerated cracks, artificial
+    symmetry, extreme perspective distortion, oversaturated colors,
+    harsh shadows, and unrealistic reflections.
+
+    Do not crop off any part of the notebook.
+
+    The output should preserve the reference image's original
+    visual identity rather than merely depicting a similar antique
+    notebook.
+  </section>
+
+  <section id="output">
+    <h2>Output Requirements</h2>
+    Wide landscape image, matching the reference image's
+    approximately 16:9 aspect ratio, high resolution, realistic
+    photographic detail, accurate material textures, and faithful
+    reproduction of the original composition.
+  </section>
+
+</div>
+```

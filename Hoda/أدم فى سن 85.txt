@@ -1,0 +1,202 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Precision Character Portrait Description</title>
+</head>
+<body>
+
+<character_portrait>
+
+  <visual_identity>
+    Create an extremely photorealistic portrait that closely
+    reproduces the provided reference image. Preserve the exact
+    visible facial proportions, hair direction, eye shape,
+    eyebrow structure, age-related skin details, expression,
+    lighting, and framing. Do not beautify, redesign, or
+    reinterpret the face.
+  </visual_identity>
+
+  <head_and_face_geometry>
+    An elderly man, approximately 75–80 years old, with a
+    distinctly elongated, narrow oval face. The face is taller
+    than it is wide. The forehead is broad and relatively high,
+    the temples are moderately narrow, and the cheek area
+    gradually tapers toward a slim lower face.
+
+    The cheekbones are subtly defined rather than prominent.
+    The cheeks are lean, with natural hollows beneath the
+    cheekbones. The jawline is narrow, gently sloping inward
+    toward a modestly rounded, slightly elongated chin.
+
+    The face must not become round, square, plump, or overly
+    symmetrical. Preserve the natural asymmetry and fine
+    irregularities of an elderly human face.
+  </head_and_face_geometry>
+
+  <hair_direction_and_structure>
+    Short, naturally thick silver-white hair mixed with medium
+    gray strands. The frontal hairline is mildly receded,
+    exposing a broad forehead.
+
+    The most important detail is the direction of the hair:
+    the front hair originates near the receding hairline and
+    sweeps backward and slightly upward from the forehead.
+    Individual strands follow a backward-flowing direction,
+    forming a soft, irregular swept-back texture rather than
+    a flat, uniformly combed surface.
+
+    The upper hair is brushed loosely backward, with fine
+    silver strands crossing and separating naturally.
+    The hair does not form a sharp side part, a fringe,
+    bangs, curls, or a pompadour.
+
+    Along both temples, the silver-white hair becomes fuller
+    and fans outward slightly. The side hair projects gently
+    away from the head near the upper ears, creating a soft,
+    feathered silhouette. The hair around the ears is shorter
+    and naturally irregular.
+
+    Preserve individual white flyaway hairs, delicate strand
+    separation, mixed gray tones, and realistic hair density.
+    The overall silhouette is rounded at the top but irregular
+    along the outer edges. No artificial haircut lines.
+  </hair_direction_and_structure>
+
+  <forehead_and_wrinkles>
+    A high, broad forehead with multiple clearly visible
+    horizontal wrinkles. The wrinkles are irregular in length,
+    depth, and spacing. Several fine vertical creases appear
+    between the eyebrows and continue slightly upward.
+
+    The skin contains natural pores, tiny age spots, subtle
+    brown pigmentation, and fine surface irregularities.
+    Maintain realistic skin texture without excessive
+    sharpening or artificially deepening every wrinkle.
+  </forehead_and_wrinkles>
+
+  <eyebrows>
+    Medium-thick, naturally irregular eyebrows in dark gray
+    and charcoal-brown tones, noticeably darker than the
+    white hair.
+
+    The eyebrows extend horizontally above the eyes, with
+    a subtle natural arch. Individual eyebrow hairs are visible.
+    The inner portions are relatively dense, while the outer
+    ends become thinner and taper naturally.
+
+    The eyebrows sit relatively close to the eyes, enhancing
+    the deep-set, thoughtful expression. Avoid thin,
+    perfectly shaped, highly arched, or jet-black eyebrows.
+  </eyebrows>
+
+  <eyes_and_eyelids>
+    Dark brown eyes of medium size, set relatively deep beneath
+    the brow ridge. Their shape is horizontally elongated,
+    with a subtle almond-like contour and naturally rounded
+    central openings.
+
+    The upper eyelids are slightly hooded, partially covering
+    the upper edges of the eyes. The lower eyelids have
+    delicate age-related folds and mild under-eye puffiness.
+    Fine crow's feet extend outward from the corners.
+
+    The eyes are level and directed straight into the camera.
+    The gaze is steady, calm, attentive, and slightly serious,
+    without anger, exaggerated sadness, or a wide-eyed look.
+
+    The irises are very dark brown, almost black in the
+    photograph, with small natural catchlights. The sclera
+    remains subtly off-white rather than bright artificial
+    white.
+
+    Preserve the realistic distance between the eyes,
+    the natural eyelid asymmetry, and the deep shadows
+    immediately beneath the eyebrows. Do not enlarge the eyes,
+    raise the eyebrows, or create a youthful eye shape.
+  </eyes_and_eyelids>
+
+  <nose>
+    A relatively long, narrow, straight nose centered on the
+    face. The bridge descends naturally from the brow region,
+    with a softly rounded tip and moderately narrow nostrils.
+
+    Preserve the subtle shadow along the sides of the nose
+    and the realistic transition between the nose, cheeks,
+    and nasolabial folds. Do not make the nose short, broad,
+    sharply pointed, or artificially sculpted.
+  </nose>
+
+  <mouth_and_lower_face>
+    A relatively narrow mouth with thin upper and lower lips.
+    The lips are closed and relaxed, with a very slight upward
+    curve at the corners, creating a restrained, almost
+    imperceptible smile.
+
+    The philtrum is clearly but naturally defined. Fine lines
+    extend from the sides of the nose toward the mouth.
+    The chin is narrow and softly rounded.
+
+    Sparse gray-white stubble is visible above the upper lip,
+    around the chin, and along the lower jaw. The facial hair
+    is extremely short and irregular, not a full beard.
+  </mouth_and_lower_face>
+
+  <skin_tone_and_texture>
+    Medium warm olive-brown complexion with natural variation
+    in pigmentation. Visible pores, fine wrinkles, age spots,
+    subtle under-eye shadows, and realistic skin translucency.
+
+    The forehead and nose receive slightly more light, while
+    the eye sockets, sides of the nose, and area beneath the
+    chin remain softly shaded.
+
+    No skin smoothing, no beauty filters, no artificial
+    complexion correction, and no plastic appearance.
+  </skin_tone_and_texture>
+
+  <clothing_and_pose>
+    A simple, loose, light beige-gray shirt with a soft,
+    matte cotton or linen texture. A traditional open collar,
+    relaxed shoulders, and natural fabric folds.
+
+    The subject faces directly forward with his head upright,
+    shoulders relaxed, and eyes looking into the lens.
+    The expression remains quiet, dignified, and natural.
+  </clothing_and_pose>
+
+  <photography>
+    Horizontal 16:9 composition, front-facing medium close-up,
+    eye-level camera angle, and natural portrait perspective.
+
+    Soft directional light from the front-left, revealing
+    the forehead wrinkles, silver hair strands, eye contours,
+    and authentic skin texture.
+
+    Muted gray-olive and beige background, softly blurred.
+    Natural color grading, moderate contrast, sharp facial
+    details, and realistic photographic depth of field.
+  </photography>
+
+  <negative_prompt>
+    Round face, square face, broad jaw, full cheeks, short face,
+    different facial proportions, different eye spacing,
+    large eyes, light blue eyes, exaggerated eyelids,
+    raised eyebrows, thick black eyebrows, straight fringe,
+    bangs, forward-combed hair, sharp side part, curly hair,
+    slick wet hair, flat white hair, completely bald head,
+    black hair, thick beard, full mustache, broad nose,
+    wide smile, visible teeth, open mouth, youthful skin,
+    smooth plastic skin, excessive wrinkles, artificial
+    symmetry, beauty retouching, cartoon, illustration,
+    painting, 3D render, harsh lighting, dramatic color grading,
+    different clothing, distracting background, text,
+    watermark, logo.
+  </negative_prompt>
+
+</character_portrait>
+
+</body>
+</html>
+```
